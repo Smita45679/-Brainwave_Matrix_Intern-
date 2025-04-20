@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 50vh;
+
+}
+
+.leftnav img{
+    width: 50%;
+   
+}
+.center-nav input{
+    border-radius: 25px;
+    width: 100%;
+    border: 2px solid grey;
+}
